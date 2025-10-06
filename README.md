@@ -7,7 +7,7 @@ Su principal característica es que funciona a través de clases CSS ya predefin
 
 Podés incluirlo de dos formas:
 
-1. 🔗 Vía CDN (la más rápida y usada)
+**1. 🔗 Vía CDN (la más rápida y usada)**
 
 Copiar y pegar dos links:
 
@@ -17,7 +17,7 @@ Copiar y pegar dos links:
     <!-- Antes de </body> -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-2. 📦 Descargando los archivos
+**2. 📦 Descargando los archivos**
 
 Podés descargar Bootstrap desde su web oficial y linkear los archivos CSS y JS desde tus carpetas locales.
 
