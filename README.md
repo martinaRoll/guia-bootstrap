@@ -1,6 +1,6 @@
 ## ¿Qué es Bootstrap?
 
-Bootstrap es un framework de CSS y JavaScript que permite diseñar sitios web rápidos, modernos y adaptables (responsive) sin tener que escribir todos los estilos desde cero.
+Bootstrap es un **framework de CSS y JavaScript** que permite diseñar sitios web rápidos, modernos y adaptables (responsive) sin tener que escribir todos los estilos desde cero.
 Su principal característica es que funciona a través de clases CSS ya predefinidas y un sistema de grilla que organiza el contenido.
 
 ## Cómo usar Bootstrap
@@ -40,9 +40,9 @@ Sirve para centrar el contenido y definir el ancho máximo del sitio.
 
 Tipos:
 
-    .container → ancho fijo que cambia según el tamaño de pantalla
+**.container →** ancho fijo que cambia según el tamaño de pantalla
 
-    .container-fluid → siempre ocupa el 100% del ancho
+**.container-fluid →** siempre ocupa el 100% del ancho
 
 Ejemplo:
 
@@ -106,12 +106,14 @@ Ejemplos de componentes:
 
 Bootstrap adapta el diseño automáticamente usando breakpoints, o sea, “puntos de corte” de pantalla.
 
-Tamaño Prefijo Dispositivo
-col- Extra pequeño Celulares
-col-sm- Pequeño Tablets vertical
-col-md- Mediano Tablets horizontales
-col-lg- Grande Laptops
-col-xl- Extra grande Monitores grandes
+| Tamaño    | Clase base    | Dispositivo aproximado |
+| --------- | ------------- | ---------------------- |
+| `col-`    | Extra pequeño | Celulares              |
+| `col-sm-` | Pequeño       | Tablets vertical       |
+| `col-md-` | Mediano       | Tablets horizontales   |
+| `col-lg-` | Grande        | Laptops                |
+| `col-xl-` | Extra grande  | Monitores grandes      |
+
 
 Ejemplo:
 
